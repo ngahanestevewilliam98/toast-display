@@ -1,0 +1,13 @@
+{
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "Create a toast to display message",
+  "main": "index.js",
+  "keywords": [
+    "toast",
+    "notification",
+    "display"
+  ],
+  "author": "NGAHANE STEVE WILLIAM",
+  "license": "ISC"
+}
