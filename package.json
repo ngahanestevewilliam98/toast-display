@@ -1,6 +1,6 @@
 {
-  "name": "toast",
-  "version": "1.0.0",
+  "name": "toast-display",
+  "version": "1.0.1",
   "description": "Create a toast to display message",
   "main": "index.js",
   "keywords": [
